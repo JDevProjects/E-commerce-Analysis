@@ -6,7 +6,7 @@ Analyzed a Kaggle e-commerce dataset of over 540,000 transaction records to extr
 
 **E-Commerce Sales Data Analysis & Product Trends Dashboard:**
 
-![Product & Sales Trends Dashboard](./Dashboard-Product-and-Sales-Trends.png)
+![Product & Sales Trends Dashboard](Dashboard-Product-and-Sales-Trends.png)
 
 **Dashboard Overview Snapshot:**
 -	Top Products by Revenue: Bar chart highlighting the highest revenue-generating items.
