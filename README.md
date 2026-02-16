@@ -47,6 +47,6 @@ Analyzed a Kaggle e-commerce dataset of over 540,000 transaction records to extr
 - Tools: Python, Pandas for data processing; Matplotlib for visualization
 
 **How to Run:**
-- Run the included file in Jupyter Notebook to reproduce the data cleaning, summary statistics, analysis, and dashboards.
-
-
+1. Install required libraries: pandas, matplotlib, and plotly.
+2. Open the notebook in Jupyter Notebook.
+3. Run all cells to reproduce the data cleaning, analysis, and dashboards.
