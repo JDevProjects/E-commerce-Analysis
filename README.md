@@ -39,6 +39,7 @@ Analyzed a Kaggle e-commerce dataset of over 540,000 transaction records to extr
 - Removed nulls and duplicates to ensure data integrity.
 - Performed feature engineering to create revenue, stock code length, and cancelled items columns.  Stock code length and cancelled items columns were used to for data cleaning to detect anomalous stock codes and identify invoice IDs starting with “C” that indicate cancelled transactions
 - Filtered anomalous stock codes and removed rows with zero or negative Unit Price.
+- Removed records with a unit price of zero to avoid potential data entry errors.
 - Separated cancelled orders into df_cancelled and retained active orders in df_active for analysis.
 - Removed outliers in Quantity and Unit Price using the IQR method in the active dataset.
 - Boxplots were used to inspect distributions before and after cleaning.
@@ -49,5 +50,5 @@ Analyzed a Kaggle e-commerce dataset of over 540,000 transaction records to extr
 
 **How to Run:**
 1. Install required libraries: pandas, matplotlib, and plotly.
-2. Open the notebook in Jupyter Notebook.
+2. Open the notebook Pandas E-Commerce.ipynb in Jupyter Notebook.
 3. Run all cells to reproduce the data cleaning, analysis, and dashboards.
