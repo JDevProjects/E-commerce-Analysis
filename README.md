@@ -12,7 +12,7 @@ Place the dashboard image file in your repository (e.g., /images/dashboard.png) 
 **Dashboard Overview Snapshot:**
 -	Top Products by Revenue: Bar chart highlighting the highest revenue-generating items.
 - Weekly Revenue Over Time: Line chart revealing seasonal patterns and sales peaks.
-•	Weekly Average Order Value: Line chart showing customer spending per order.
+-	Weekly Average Order Value: Line chart showing customer spending per order.
 
 **Key Insights for Stakeholders:**
 1. Product Performance
