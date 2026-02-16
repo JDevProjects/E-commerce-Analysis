@@ -10,8 +10,8 @@ Analyzed a Kaggle e-commerce dataset of over 540,000 transaction records to extr
 Place the dashboard image file in your repository (e.g., /images/dashboard.png) and link it here using Markdown:
 
 **Dashboard Overview Snapshot:**
-•	Top Products by Revenue: Bar chart highlighting the highest revenue-generating items.
-•	Weekly Revenue Over Time: Line chart revealing seasonal patterns and sales peaks.
+-	Top Products by Revenue: Bar chart highlighting the highest revenue-generating items.
+- Weekly Revenue Over Time: Line chart revealing seasonal patterns and sales peaks.
 •	Weekly Average Order Value: Line chart showing customer spending per order.
 
 **Key Insights for Stakeholders:**
