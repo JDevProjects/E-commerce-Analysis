@@ -6,7 +6,7 @@ Analyzed a Kaggle e-commerce dataset of over 540,000 transaction records to extr
 
 **Dashboard: E-Commerce Sales Data Analysis & Product Trends:**
 
-Dashboard creation tool: Matplotlib.
+*Dashboard creation tool: Matplotlib*
 
 ![Product & Sales Trends Dashboard](Dashboard-Product-and-Sales-Trends.png)
 
