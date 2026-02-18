@@ -5,6 +5,7 @@ E-commerce data analysis project: used Python to clean, analyze, and visualize e
 Analyzed a Kaggle e-commerce dataset of over 540,000 transaction records to extract actionable business insights, including top-selling products, seasonal sales trends, and customer spending behavior, in order to inform inventory, marketing, and pricing strategies.
 
 **Dashboard: E-Commerce Sales Data Analysis & Product Trends:**
+
 Dashboard creation tool: Matplotlib.
 
 ![Product & Sales Trends Dashboard](Dashboard-Product-and-Sales-Trends.png)
